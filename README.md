@@ -7,7 +7,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 ## Curiosity
 
-I choose this data for predicting if a person has a diabetes or not but without using any Machine Learning library. I was having a curiosity of solving this problem by using mathematics and the data analysis libraries. Achieving the great accuracy is not my goal here but to chase the curiosity.
+I choose this data for predicting if a person has a diabetes or not but without using SciKit learn library. I was having a curiosity of solving this problem by using mathematics and the data analysis libraries. Achieving the great accuracy is not my goal here but to chase the curiosity.
 
 ## Files and Installation
 
